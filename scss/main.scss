@@ -1,0 +1,103 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+// .wrap {
+//     width: 100%;
+// }
+
+// .header {
+//     width: 1100px;
+//     height: 100px;
+//     margin: 0 auto;
+//     overflow: hidden;
+//     background-color: aquamarine;
+
+//     h1 {
+//         width: 250;
+//         line-height: 100px;
+//         float: left;
+//     }
+
+//     .nav {
+//         width: 850px;
+//         height: 100px;
+//         .gnb {
+//             float: right;
+//             outline: 1px dotted red;
+//             & > li {
+//                 float: left;
+//                 a {
+//                     display: block;
+//                     line-height: 40px;
+//                 }
+//             }
+//         }
+//     }
+
+//     outline: 1px dotted red;
+// }
+
+
+// #logo, .nav, .gnb 
+
+
+
+// .header .nav .gnb > li {
+//     width: 150px;
+// }
+
+
+// .gnb li {
+//     text-align: center;
+//     outline: 1px dotted red;
+// }
+
+
+/* common */
+// .inner {
+//     width: 1100px;
+//     margin: 0 auto;
+//     outline: 1px solid red;
+// }
+
+// .header {
+//     width: 100%;
+//     height: 100px;
+//     outline: 1px solid rgb(0, 0, 255);
+//     overflow: hidden;
+// }
+
+// // .nav {
+// // }
+
+// // body {}
+
+// h1 {
+//     border-top-width: 1px solid rgb(255, 0, 0);
+// }
+
+// div {
+//     background: 1px solid rgb(0, 0, 0);
+// }
+
+// .box {
+//     position: absolute;
+//     background-color: rgb(0, 255, 255);
+//     border-radius: 50%;
+//     width: 50px;
+//     height: 50px;
+// }
+
